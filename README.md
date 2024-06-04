@@ -4,6 +4,7 @@
 
 ## Description
 
+[Watch the explanatory video](https://www.youtube.com/watch?v=CFQfu4DilIE)
 This Python script automates the betting process on the Blaze Double website using Selenium and undetected-chromedriver. It monitors the game state, places bets according to a predefined strategy, and handles winnings and losses. Google Chrome browser required.
 
 ---
@@ -92,3 +93,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 © 2024 Rafael Ribeiro.
+
